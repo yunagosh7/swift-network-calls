@@ -10,4 +10,4 @@ In this app I've used and learned
 - TextField and Buttons
 - Tasks and asynchronous functions
 
-<img style="max-width: 50%" src="./app-image.png">
+<img style="max-width: 400px:" src="./app-image.png">
